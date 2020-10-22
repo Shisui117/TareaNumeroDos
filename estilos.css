@@ -1,0 +1,16 @@
+.pilycabeza{
+    background-color: red;
+  }
+.pily{
+    background-color: red;
+    height: 40px;
+    width: 400px;
+  }
+  .pily2{
+    border: 10px solid #FFEC00;
+    background-color: green;
+    height: 535px;
+    width: 1260px;
+    padding: 10px;
+    margin: 10px;
+  }
